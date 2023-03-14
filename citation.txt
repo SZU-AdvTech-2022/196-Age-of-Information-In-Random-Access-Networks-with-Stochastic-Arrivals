@@ -1,0 +1,8 @@
+@inproceedings{REPO-197,
+    author = "Kadota, Igor and Modiano, Eytan",
+    booktitle = "IEEE INFOCOM 2021-IEEE Conference on Computer Communications",
+    organization = "IEEE",
+    pages = "1--10",
+    title = "{Age of Information in Random Access Networks with Stochastic Arrivals}",
+    year = "2021"
+}
